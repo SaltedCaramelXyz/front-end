@@ -7,7 +7,7 @@
               <p class="text-white mb-4">
                 Check for updates on socials or learn more with our documentation.
               </p>
-              <a href="http://docs.saltedcaramel.xyz/" class="btn btn-light mt-1 py-3 px-5">Learn More</a>
+              <a href="https://saltedcaramel.gitbook.io/saltedcaramel/" class="btn btn-light mt-1 py-3 px-5">Learn More</a>
           </div>
           <div class="col-lg-6 text-center text-lg-right">
               <img class="img-fluid mt-5 mb-5" src="../assets/pot.png" alt="">
