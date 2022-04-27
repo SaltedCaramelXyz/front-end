@@ -13,7 +13,7 @@
                   <router-link to="/soon" class="nav-item nav-link active">ICO</router-link>
                   <router-link to="/soon" class="nav-item nav-link active">Staking</router-link>
                   <router-link to="/soon" class="nav-item nav-link active">Buy $CRML</router-link>
-                  <a href="https://saltedcaramel.gitbook.io/saltedcaramel.xyz/" class="nav-item nav-link">Whitepaper</a>
+                  <a href="docs.saltedcaramel.xyz" class="nav-item nav-link">Whitepaper</a>
               </div>
           </div>
           <router-link to="/" class="btn px-4" id="importantbutton">Connect Wallet</router-link>

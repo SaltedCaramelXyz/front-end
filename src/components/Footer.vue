@@ -34,7 +34,7 @@
                 <div class="d-flex flex-column justify-content-start">
                     <router-link to="/soon" class="text-white mb-2"><i class="fa fa-angle-right mr-2"></i>FAQ</router-link>
                     <router-link to="/soon" class="text-white mb-2"><i class="fa fa-angle-right mr-2"></i>Step-by-Step Guide</router-link>
-                    <a class="text-white mb-2" href="https://saltedcaramel.gitbook.io/saltedcaramel.xyz/"><i class="fa fa-angle-right mr-2"></i>Whitepaper</a>
+                    <a class="text-white mb-2" href="docs.saltedcaramel.xyz"><i class="fa fa-angle-right mr-2"></i>Whitepaper</a>
                 </div>
             </div>
         </div>
