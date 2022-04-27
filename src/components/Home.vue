@@ -47,7 +47,7 @@
                         <i class="flaticon-021-juice-box h1 font-weight-normal mb-3" id="iconcolor"></i>
                         <div class="pl-4">
                             <h4>Get Extra Tokens</h4>
-                            <p class="m-0">Each staking pool below a certain value is boosted with $CRML rewards.</p>
+                            <p class="m-0">Lock your tokens for 7 days and get a boost in $CRML rewards.</p>
                         </div>
                     </div>
                 </div>
