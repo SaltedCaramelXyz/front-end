@@ -11,7 +11,7 @@
                 Lock your $CRML and get even more passive income in $USDT.
               </p>
               <router-link to="/soon" class="btn mt-1 py-3 px-5" id="importantbutton">Stake Now !</router-link>
-              <a href="docs.saltedcaramel.xyz" class="btn btn-light ml-3 mt-1 py-3 px-5">Learn More</a>
+              <a href="https://docs.saltedcaramel.xyz/" class="btn btn-light ml-3 mt-1 py-3 px-5">Learn More</a>
           </div>
           <div class="col-lg-6 text-center text-lg-right">
               <img class="img-fluid mt-5 mb-5" src="../assets/pot.png" alt="">
