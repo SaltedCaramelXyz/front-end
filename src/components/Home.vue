@@ -51,6 +51,7 @@
                                 <p>In-app Swap</p>
                                 <p>NFT Collectibles</p>
                                 <p>NFT Staking Earn $USDT</p>
+                                <p>Listings</p>
                             </div>
                         </div>
                     </li>
