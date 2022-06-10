@@ -6,12 +6,12 @@
               <h4 class="text-white mb-4 mt-5 mt-lg-0">Salted Caramel</h4>
               <h1 class="display-3 font-weight-bold text-white">The sweetest spot to earn passive income</h1>
               <p class="text-white mb-4">
-                Stake your favorite crypto, Salted Caramel autocompounds it and rewards you with $CRML.<br/>
+                Stake your favorite crypto, Salted Caramel autocompounds it for you ! Lock it and get more rewards in $CRML.<br/>
                 Each token deposited register you for the big draw. Take your chance to get thousand of cryptos !<br/>
                 Lock your $CRML and get even more passive income in $USDT.
               </p>
               <router-link to="/soon" class="btn mt-1 py-3 px-5" id="importantbutton">Stake Now !</router-link>
-              <a href="https://saltedcaramel.gitbook.io/saltedcaramel/" class="btn btn-light ml-3 mt-1 py-3 px-5">Learn More</a>
+              <a href="https://docs.saltedcaramel.xyz/" class="btn btn-light ml-3 mt-1 py-3 px-5">Learn More</a>
           </div>
           <div class="col-lg-6 text-center text-lg-right">
               <img class="img-fluid mt-5 mb-5" src="../assets/pot.png" alt="">
